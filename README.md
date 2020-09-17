@@ -5,3 +5,5 @@ spring cloud alibaba相关项目接入
 
 - nacos
 - dubbo
+- mybatis
+- redis
